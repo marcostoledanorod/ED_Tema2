@@ -13,7 +13,7 @@ public class Perro
 		edad = 0;
 		color = "";
 		
-	}
+	} // Segundo comentario de prueba
 	// Comentario de prueba
 	public Perro(Raza raza, float tamano, int edad, String color)
 	{
