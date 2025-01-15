@@ -14,7 +14,7 @@ public class Perro
 		color = "";
 		
 	}
-
+	// Comentario de prueba
 	public Perro(Raza raza, float tamano, int edad, String color)
 	{
 		this.raza = raza;
