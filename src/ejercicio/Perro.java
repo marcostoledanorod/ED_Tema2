@@ -22,7 +22,7 @@ public class Perro
 		this.edad = edad;
 		this.color = color;
 	}
-
+// prueba
 	public Raza getRaza()
 	{
 		return raza;
